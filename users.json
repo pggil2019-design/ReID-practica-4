@@ -1,0 +1,11 @@
+{
+    "carlos": "8008",
+    "usuario1": {
+        "password": "scrypt:32768:8:1$z3IgC1Yrf8d1nbFh$c5e020b10934fa905927dd5fab91e8c9b7082ca6c9ad0f616304038b1555c713a891125d300de9f434456e6b6dd7c5f67f1633f359218dbc598eaddae5147918",
+        "is_admin": false
+    },
+    "admin1": {
+        "password": "scrypt:32768:8:1$jmiJm2GKZyDmI0G3$5dc2d4ffe47fe347897fceeafba846f024e1d77890a8023528048b9bab54555ddfe832b991e247203928de70621b9cc439da15091cc20c861da58406fa99101c",
+        "is_admin": true
+    }
+}
